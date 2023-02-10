@@ -15,6 +15,7 @@
     <header>
         <h1>Laravel-model-controller</h1>
     </header>
+    @yield('main-content')
     
 </body>
 </html>
